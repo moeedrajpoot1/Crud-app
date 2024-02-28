@@ -2,7 +2,7 @@
 This Crud App Includes Account creation and Deletion as Well As Account Updation Functionality 
 User Login
 User Register 
-Adim Panel 
-<b>And aDMIN can Add users And Delete Users</b>
+Adimn Panel 
+<b >And ADMIN can Add users And Delete Users</b>
 
 <b>Run Npm i For dependencies</b>
